@@ -27,7 +27,7 @@ const Hero = () => {
       ]}
       className="md:text-5xl sm:text-4xl text-xl font-bold md:pl-4 pl-2"
       wrapper="span"
-      speed={40}
+      speed={30}
       repeat={Infinity}
     />
     </div>
