@@ -1,5 +1,5 @@
 import React from 'react'
-import laptop from '../assets/laptop.jpg'
+import laptop from '../../assets/laptop.jpg'
 
 const Analytics = () => {
   return (
